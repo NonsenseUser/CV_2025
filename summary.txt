@@ -1,0 +1,5 @@
+=== Cell Tracking Summary ===
+Total frames: 240
+Unique cells tracked: 0
+
+Trajectory Statistics:
